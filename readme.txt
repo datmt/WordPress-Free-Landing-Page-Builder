@@ -90,4 +90,4 @@ This is the first version.
 
 
 == Upgrade notice ==
-This is the first version.
+https://wordpress.org/plugins/all-in-one-wp-builder/
